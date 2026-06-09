@@ -1,0 +1,7 @@
+name: sample_app
+description: Fixture package for dart_modernizer tests (language 3.10).
+publish_to: none
+version: 0.0.1
+
+environment:
+  sdk: ">=3.10.0 <4.0.0"

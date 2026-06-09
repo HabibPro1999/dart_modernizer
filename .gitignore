@@ -1,0 +1,12 @@
+# Dart / Flutter tooling — ignore the root build cache only.
+# The fixture's checked-in .dart_tool/package_config.json (pinned language
+# version for the version-gate tests) is intentionally kept.
+/.dart_tool/
+/build/
+.packages
+doc/api/
+
+# IDE
+*.iml
+.idea/
+.vscode/

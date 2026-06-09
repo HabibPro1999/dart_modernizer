@@ -1,0 +1,14 @@
+{
+  "roots": [
+    "sample_app"
+  ],
+  "packages": [
+    {
+      "name": "sample_app",
+      "version": "0.0.1",
+      "dependencies": [],
+      "devDependencies": []
+    }
+  ],
+  "configVersion": 1
+}
